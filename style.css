@@ -94,3 +94,40 @@ button {
     border-radius: 10px;
     border: none;
 }
+
+/* S E C T i O N 2 */
+
+h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.one,
+.two,
+.three,
+.four {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
+}
+
+.info-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.sec2 p {
+    width: 160px;
+    text-align: center;
+}
+
+.info-text {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    margin-top: -7px;
+}
