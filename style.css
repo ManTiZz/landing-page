@@ -20,6 +20,7 @@ body {
     display: flex;
     padding: 15px;
     width: 980px;
+    align-items: center;
 }
 
 .sec1 {
@@ -120,6 +121,10 @@ h2 {
     gap: 50px;
 }
 
+.sec2 {
+    padding-bottom: 100px;
+}
+
 .sec2 p {
     width: 160px;
     text-align: center;
@@ -130,4 +135,27 @@ h2 {
     justify-content: center;
     gap: 45px;
     margin-top: -7px;
+}
+
+/* S E C T i O N 3 */
+
+.sec3 {
+    background-color: #e5e7eb;
+    padding: 75px;
+}
+
+.sec3 p {
+    max-width: 800px;
+    margin: auto;
+    padding-top: 25px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.sec3 h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 590px;
 }
